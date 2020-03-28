@@ -16,6 +16,7 @@
 [Dd]ebug*/
 *.sbr
 obj/
+[Oo]bj
 [Rr]elease*/
 _ReSharper*/
 [Tt]estResults
